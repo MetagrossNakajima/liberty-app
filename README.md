@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ```
 
 ※Python 環境汚染するから気にする人は venv 使ってね。
+
+## 仮想環境の Activate
+
+liberty\Scripts\activate
