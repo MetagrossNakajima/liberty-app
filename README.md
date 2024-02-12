@@ -14,7 +14,7 @@ Google か ChatGPT に聞くとわかりやすいです。
 ## 3. コマンドプロンプトで liberty-app のディレクトリまで移動してください
 
 ```cmd
-cd /(cloneしたpath)/liberty-app
+cd /(cloneしたpath)/useful-app
 ```
 
 ## 4. 次のコマンドを打ってください
