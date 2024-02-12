@@ -24,9 +24,3 @@ pip install -r requirements.txt
 ```
 
 ※Python 環境汚染するから気にする人は venv 使ってね。
-
-## 5. 次のコマンドを打ってください
-
-```
-python inc.py
-```
