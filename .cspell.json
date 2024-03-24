@@ -1,0 +1,18 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "ignorePaths": [
+        "node_modules", // node_modules ディレクトリを無視
+        "**/dist/**", // dist ディレクトリを無視
+        "*.min.*" // 圧縮ファイルを無視
+    ],
+    "words": [
+        "pokemon",
+        "pokemons",
+        "pokename",
+        "pokeicon",
+        "pokeicons",
+        "pokejson",
+        "pokedata"
+    ],
+}
